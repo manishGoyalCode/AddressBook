@@ -36,8 +36,8 @@ A Spring Boot-based modular address book service that supports in-memory contact
 ### 🛠️ How to Run
 
 ```bash
-git clone <your-repo-url>
-cd address-book
+git clone https://github.com/manishGoyalCode/AddressBook.git
+cd AddressBook
 mvn clean install
 mvn spring-boot:run
 
