@@ -235,7 +235,7 @@ curl -X DELETE http://localhost:5000/delete \
   -H "Content-Type: application/json" \
   -d '["<uuid>"]'
 ```
-📂 Project Structure
+## 📂 Project Structure
 ```
 src/main/java/com/example/addressbook
 ├── model/         # POJOs (Contact, SearchRequest)
